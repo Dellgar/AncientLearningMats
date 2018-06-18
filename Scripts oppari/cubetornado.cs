@@ -19,7 +19,7 @@ public class cubetornado : MonoBehaviour {
 	}
 	
 	// Update is called once per in frame
-	void Update () {
+	void Start () {
 
 		BuildingTornado();
 
